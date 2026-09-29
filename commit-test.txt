@@ -1,5 +1,0 @@
-这是一个用于测试 Git commit 的文件。
-如果你能看到它，可以执行 git add 和 git commit 来验证提交流程。
-sds
-sds
-

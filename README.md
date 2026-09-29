@@ -1,3 +1,0 @@
-# StreetDemo
-
-Project repository initialized.
